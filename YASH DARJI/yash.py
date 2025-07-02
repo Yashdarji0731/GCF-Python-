@@ -241,7 +241,7 @@ f.pop()
 print(f)
 print(e)
 
-# -> insert = insert the value between the array thriugh index no and updated values
+# -> insert = insert the value between the array through index no and updated values
 #             inserts the specified value at the specified position 
 e=[1,2,3,"abc",True,1.2503]
 f=e
